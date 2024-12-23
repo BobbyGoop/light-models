@@ -1,0 +1,18 @@
+﻿{
+	"lightPositionX": 500.5,
+    "lightPositionY": 690.65,
+    "lightPositionZ" :-1.0,
+
+    "observerPositionX" : 250.5,
+    "observerPositionY" : 250.8,
+    "observerPositionZ" : 200.0,
+
+    "depthMapPath": ".\\Maps\\DepthMap_17.dat",
+    "outputModelName": "model",
+    "outputModelFormat": "stl",
+
+    "outputImageName": "image",
+    "outputImageFormat": "bmp",
+
+    "lightingMode": 2,
+}
